@@ -1,4 +1,4 @@
-# Physics and Ecology in Fluids
+# Book (First Edition)
 ### by Marek Stastna and Derek Steinmoeller
 
 ## About
