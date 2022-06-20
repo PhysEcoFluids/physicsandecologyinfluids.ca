@@ -3,9 +3,11 @@
 
 ## About
 
-This is the about section
+The book is slated for release in 2023.
 
 ## Obtaining the code for the book
+
+The code is not currently available. Check back later.
 
 [Matlab sources (Latest)](https://github.com/PhysEcoFluids/matlab-codes)
 
