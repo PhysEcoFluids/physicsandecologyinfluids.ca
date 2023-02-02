@@ -1,9 +1,12 @@
 # Book (First Edition)
 ### by Marek Stastna and Derek Steinmoeller
 
+![Physics and Ecology in Fluids - Book Front Cover](cover.webp "Book Cover")
+
+
 ## About
 
-The book is slated for release in 2023.
+The book is slated for release in March 2023. [Pre-order](https://a.co/d/9lnHn0J) your copy!
 
 ## Obtaining the code for the book
 
